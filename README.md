@@ -11,5 +11,6 @@ Temperature Converter is a web-based temperature calculator application built us
 - CSS
 - JavaScript
 # Output
-![Screenshot 2023-08-24 211741](https://github.com/Revanth8092/Temperature_Converter/assets/143109774/6dce9994-44cd-4eff-963a-ee2d301d6b3f)
+![WhatsApp Image 2023-09-08 at 22 34 23](https://github.com/nandreanvesh123/Temperature_converter/assets/144477969/5eb19f12-f1ae-49ae-b5f4-3cac34d3e0f1)
+
 
